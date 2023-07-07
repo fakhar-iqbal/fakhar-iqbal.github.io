@@ -5,6 +5,3 @@ I am confident that my skills and passion for this field would make me a valuabl
 Outside of work, I enjoy painting calligraphies and play Tennis. 
 Let's connect and see how we can work together to achieve our aims.
 
-Email: fakhareiqbal3534@gmail.com
-LinkedIn: https://www.linkedin.com/in/muhammad-fakhar-707681265/
-Github: https://github.com/fakhar-iqbal

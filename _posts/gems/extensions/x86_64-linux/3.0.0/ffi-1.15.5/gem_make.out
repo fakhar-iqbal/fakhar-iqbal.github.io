@@ -1,0 +1,8 @@
+current directory: /home/fakhar/Desktop/GitHub/fakhar-iqbal.github.io/_posts/gems/gems/ffi-1.15.5/ext/ffi_c
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230708-101964-cgzbkh.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+You might have to install separate package for the ruby development
+environment, ruby-dev or ruby-devel for example.
+
+extconf failed, exit code 1

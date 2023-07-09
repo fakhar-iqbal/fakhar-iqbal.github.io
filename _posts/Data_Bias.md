@@ -1,0 +1,63 @@
+## The Dillema of Bias in Data
+
+### Why Does This Matter?
+
+One very natural reaction to considering the bias issues is:
+> “So what? What’s that got to do with me? I’m a data scientist, not one of the senior executives at my company who make the decisions about what we do. I’m just trying to build the most predictive model I can.”
+
+These are very reasonable questions. 
+Of course, if a project you are involved in turns out to make a huge positive impact (The Utilitarian approach), this is going to make you feel pretty great! 
+OK, but how would you feel if you discovered that you had been part of a system that ended up hurting the society? Would you be open to finding out? How can you help make sure this doesn't happen?
+These are not just algorithm questions. They are data product design questions. Tech firms must keep one thing in focus, that 
+### Data Scientists do need to be a part of cross-disciplinary team.
+And researchers need to work closely with the kinds of people who will end up using their research. Better still, domain experts themselves could learn enough to be able to train and debug some models themselves. 
+Let's now dive deeper in Bias!
+
+### Bias:
+  Bias in data refers to a systematic error or distortion that is present in the data collection process, resulting in inaccurate or misleading information. It can occur due to various factors, including the sampling method, measurement techniques, data collection instruments, or human involvement.
+
+There are different types of biases that can affect data. Major ones are:
+### 1. Historical Bias:
+Historical bias comes from the fact that people are biased, processes are biased, and
+society is biased. Historical bias is a fundamental, structural
+issue with the first step of the data generation process and can exist even given perfect
+sampling and feature selection.
+Any dataset involving humans can have this kind of bias: medical data, sales data,
+housing data, political data, and so on. Because underlying bias is so pervasive, bias in
+datasets is very pervasive. Racial bias even turns up in computer vision, as shown in
+the example of autocategorized photos shared on Twitter by a Google Photos:
+![]('images/historical.jpg' "One of these labels is very wrong!")
+One of the labels is predicting black people as Gorillas! This led to a huge criticism and concern. This caused the developers to change the data for gorillas to monkeys and Chimpanzee. 
+But the concern is always there. 
+
+### 2. Measurement Bias:
+This bias arises from errors or inaccuracies in the measurement or data collection process. It can occur due to faulty instruments, human error, or inconsistent application of measurement procedures. Measurement bias can distort the collected data, leading to inaccurate or imprecise results.
+
+### 3. Aggregation Bias:
+Aggregation bias occurs when models do not aggregate data in a way that incorporates
+all of the appropriate factors, or when a model does not include the necessary interac‐
+tion terms, nonlinearities, or so forth. This can particularly occur in medical settings.This can result in people being misdiag‐
+nosed or incorrectly treated because medical decisions are based on a model that does
+not include these important variables and interactions.
+
+## Let's see how to mitigate them?
+Introduce Bias in Data: Explain the concept of bias in data, which refers to systematic errors or distortions in the data collection process that can lead to inaccurate or misleading information.
+
+### Types of Bias:
+Briefly describe common types of bias, such as sampling bias, selection bias, measurement bias, reporting bias, confirmation bias, and cultural bias.
+
+### Importance of Addressing Bias: 
+Highlight the significance of addressing bias, as it can distort results, misrepresent populations, and lead to incorrect conclusions.
+
+### Strategies to Mitigate Bias: 
+Outline key strategies for bias mitigation, including random sampling, standardized protocols, transparency in reporting, peer review, independent analysis, and cultural sensitivity.
+
+### Implementation Examples: 
+Provide brief examples of how researchers have successfully implemented bias mitigation strategies in their studies across various disciplines.
+
+### Acknowledge Limitations: 
+Mention the challenges in completely eliminating bias and emphasize the importance of transparency about limitations and potential biases in the data.
+
+## Conclusion:
+Addressing bias in data is not just an algorithmic or technical challenge; it is a moral imperative. Let us embrace this responsibility and actively work towards creating data products that have a positive impact, fostering trust, fairness, and inclusivity in our ever-evolving digital world. But if you are pretty sure that the data to sue in the model will be hurting the society in future, then just 
+### Learn to say NO!

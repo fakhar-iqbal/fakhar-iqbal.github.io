@@ -1,3 +1,4 @@
-# Your blog
+# Fakhar's_Portfolio
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+# [Project 1: Dog vs Cat Classifier](https://github.com/fakhar-iqbal/FastaiImplementations/tree/main)
+I wrote about dog vs cat classiofier

@@ -32,7 +32,9 @@ at all. This is called freezing those pretrained layers.
 When we create a model from a pretrained network, fastai automatically freezes all of
 the pretrained layers for us. When we call the fine_tune method, fastai does two
 things:
+
 • Trains the randomly added layers for one epoch, with all other layers frozen
+
 • Unfreezes all the layers, and trains them for the number of epochs requested
 
 Although this is a reasonable default approach, it is likely that for your particular
@@ -73,8 +75,7 @@ Let’s train at a suitable learning rate:
 
 This has improved our model a bit, but there’s more we can do. The deepest layers of
 our pretrained model might not need as high a learning rate as the last ones, so we
-should probably use different learning rates for those—this is known as using dis‐
-criminative learning rates(Not to be discussed here).
+should probably use different learning rates for those—this is known as using discriminative learning rates(Not to be discussed here).
 
 fastai can show us a graph of the training and validation loss:
 

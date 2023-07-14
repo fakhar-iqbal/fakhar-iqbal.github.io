@@ -33,9 +33,9 @@ When we create a model from a pretrained network, fastai automatically freezes a
 the pretrained layers for us. When we call the fine_tune method, fastai does two
 things:
 
-• Trains the randomly added layers for one epoch, with all other layers frozen
+- Trains the randomly added layers for one epoch, with all other layers frozen
 
-• Unfreezes all the layers, and trains them for the number of epochs requested
+- Unfreezes all the layers, and trains them for the number of epochs requested
 
 Although this is a reasonable default approach, it is likely that for your particular
 dataset, you may get better results by doing things slightly differently. The fine_tune

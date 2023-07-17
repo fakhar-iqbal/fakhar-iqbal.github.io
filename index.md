@@ -7,6 +7,12 @@ Thank you.
 
 # Journey with fastai Library
 
+## Images Regression
+
+### [Practice 1: Centre of Head](https://github.com/fakhar-iqbal/FastaiImplementations/blob/main/ComputerVision/ImagesRegression.ipynb)
+In this model, I implemented images regression, to find the coordinates of the centre of the head. It uses MSELoss. 
+![](/images/regression.png)
+
 ## Sinlge Label Classification
 
 ### [Practice 1: Dog vs Cat Classifier](https://github.com/fakhar-iqbal/FastaiImplementations/tree/main/ComputerVision/Dog_vs_CatApp.ipynb)

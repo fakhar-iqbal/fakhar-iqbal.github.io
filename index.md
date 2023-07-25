@@ -60,5 +60,5 @@ In this model. based on previous prices of machines on auctions, I predicted the
 
 # Natural Language Processing
 
-## [Practice 1: Generating text for movie reviews/ Classifying the reviews](https://github.com/fakhar-iqbal/FastaiImplementations/blob/main/NLP/LanguageModel.ipynb)
+## [Practice 1: Generating text for movie reviews/ Classifying the reviews](https://github.com/fakhar-iqbal/FastaiImplementations/blob/main/NLP/LanguageModel_NLP.ipynb)
 In this Language Model, I predicted the text to write the reviews for movies. Also, I classified them as positive review or negative review. 

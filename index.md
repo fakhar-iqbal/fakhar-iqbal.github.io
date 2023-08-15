@@ -5,6 +5,21 @@ As a Machine Learning practitioner, I have been writing posts and blogs on Data 
 Thank you for visiting my blog page. I hope you enjoy my articles!
 Thank you.
 
+# End-to-End Projects
+
+## [Machine Price Prediction](https://github.com/fakhar-iqbal/MachineryPriceEstimator_End_to_End_Project)
+In this app, I implemented Random Forest model to generate the price of Machinery based on previous auction data. 
+
+![](/images/first.png)
+![](/images/second.png)
+
+
+## [Students Performance Predictor](https://github.com/fakhar-iqbal/Student_Performance_Predictor_End_to_End_Project)
+In this app, I implemented the model to predict the maths score for students based on their profiles. 
+
+![](/images/students.jpg)
+
+
 # Journey with fastai Library
 
 # Computer Vision

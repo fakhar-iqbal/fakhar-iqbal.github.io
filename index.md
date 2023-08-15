@@ -18,7 +18,7 @@ In this app, I implemented Random Forest model to generate the price of Machiner
 ## [Students Performance Predictor](https://github.com/fakhar-iqbal/Student_Performance_Predictor_End_to_End_Project)
 In this app, I implemented the model to predict the maths score for students based on their profiles. 
 
-![](/images/students.png)
+![](/images/student.png)
 
 
 # Journey with fastai Library

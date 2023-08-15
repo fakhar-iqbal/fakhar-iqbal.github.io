@@ -75,7 +75,7 @@ I made a computer vision model, hosted in gradio on huggingfaces, which differs 
 <img src="/images/messi.png">
 
 
-[Practice 3: Bear Detector](https://github.com/fakhar-iqbal/FastaiImplementations/tree/main/ComputerVision/BearClassifierPrototype .ipynb "Bear Detector") 
+[Practice 3: Bear Detector](https://github.com/fakhar-iqbal/FastaiImplementations/tree/main/ComputerVision/BearClassifierPrototype.ipynb "Bear Detector") 
 
 In this model, I classified between 3 types of bears, black, teddy and grizzly. With 100% accuracy. This app prototype is also hosted on huggingfaces spaces.
 

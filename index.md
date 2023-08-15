@@ -12,6 +12,7 @@ In this app, I implemented Random Forest model to generate the price of Machiner
 
 ![](/images/first.png)
 ![](/images/second.png)
+![](/images/third.png)
 
 
 ## [Students Performance Predictor](https://github.com/fakhar-iqbal/Student_Performance_Predictor_End_to_End_Project)

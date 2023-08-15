@@ -7,7 +7,7 @@ Thank you.
 
 # End-to-End Projects
 
-## [Machine Price Prediction](https://github.com/fakhar-iqbal/MachineryPriceEstimator_End_to_End_Project)
+# [Machine Price Prediction](https://github.com/fakhar-iqbal/MachineryPriceEstimator_End_to_End_Project)
 In this app, I implemented Random Forest model to generate the price of Machinery based on previous auction data. 
 
 ![](/images/first.png)
@@ -15,7 +15,7 @@ In this app, I implemented Random Forest model to generate the price of Machiner
 ![](/images/third.png)
 
 
-## [Students Performance Predictor](https://github.com/fakhar-iqbal/Student_Performance_Predictor_End_to_End_Project)
+# [Students Performance Predictor](https://github.com/fakhar-iqbal/Student_Performance_Predictor_End_to_End_Project)
 In this app, I implemented the model to predict the maths score for students based on their profiles. 
 
 ![](/images/student.png)

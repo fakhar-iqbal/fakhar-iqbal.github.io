@@ -2,6 +2,27 @@ body {
   background-color: #f9f9f9;
 }
 
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;  
+}
+
+.image-small {
+  width: 300px;
+}
+
+@media (max-width: 600px) {
+  .image-small {
+    width: 100%;
+  }
+}
+
 a {
   color: #3f51b5;
 }

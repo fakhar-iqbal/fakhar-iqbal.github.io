@@ -1,0 +1,54 @@
+body {
+  background-color: #f9f9f9;
+}
+
+a {
+  color: #3f51b5;
+}
+
+/* Typography */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Header */
+
+.intro {
+  background-image: linear-gradient(#fff, #f9f9f9);
+}
+
+/* Projects */
+
+.projects {
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.project {
+  background-color: #fdfdfd;
+}
+
+/* Smooth scroll */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Transitions */
+
+a {
+  transition: color 0.3s;
+}
+
+.project {
+  transition: transform 0.2s;
+}
+
+.project:hover {
+  transform: scale(1.01); 
+}
